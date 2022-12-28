@@ -18,3 +18,18 @@ h3 {
 .navbar-expand-lg .navbar-nav .nav-link.active {
   color: #fff;
 }
+.padding {
+  padding-top: 1rem;
+  padding-bottom: 50px;
+}
+.about-us {
+  background-color: #4269bb;
+  color: #fff;
+}
+
+@media (max-width: 425px) {
+  .about-us-img {
+    width: 250px;
+    height: 250px;
+  }
+}
