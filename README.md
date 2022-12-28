@@ -1,5 +1,5 @@
 <p>
-  <img src="./img/capa.png" alt="Capa"/>
+  <img src="./images/capa.png" alt="Capa"/>
 </p>
 
 # Construindo páginas para internet com Bootstrap
