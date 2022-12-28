@@ -18,13 +18,29 @@ h3 {
 .navbar-expand-lg .navbar-nav .nav-link.active {
   color: #fff;
 }
+.navbar-expand-lg .navbar-nav .nav-link.active:hover {
+  color: #5ea3f8;
+  text-decoration: underline;
+}
 .padding {
   padding-top: 1rem;
   padding-bottom: 50px;
 }
-.about-us {
+.about-us,
+.services {
   background-color: #4269bb;
   color: #fff;
+}
+.partners {
+  background-color: #fff;
+}
+.partner-img {
+  width: 240px;
+  height: 50px;
+  margin: 0.5rem auto;
+}
+.bg-footer {
+  background-color: #000;
 }
 
 @media (max-width: 425px) {
